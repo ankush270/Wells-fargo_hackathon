@@ -1,10 +1,3 @@
-# NITK - Big3
-
-## Team Members
-
-- _Team Lead:_ Udit Jain
-- _Member 1:_ Ankush Kumar
-- _Member 2:_ Ankur
 
 ## Problem Statement
 
